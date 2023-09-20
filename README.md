@@ -13,12 +13,12 @@
 
 ## Requirements
 
-1. ' Autonomous Robot'
-2. ' Obstacle Avoidance Sensors '
-3. ' Weather Monitoring '
-4. ' Flight Controller '
-5. ' Predefined Missions '
-6. ' Flight path '
+1. `Autonomous Robot`
+2. `Obstacle Avoidance Sensors`
+3. `Weather Monitoring`
+4. `Flight Controller`
+5. `Predefined Missions`
+6. `Flight path`
 
 ## Innovative technology used 
 
@@ -165,5 +165,20 @@ sources, such as solar panels, which would significantly increase the drone's fl
 Furthermore, the utilization of Lidars instead of ultrasonic sensors can enhance the drone's 
 safety and reliability. Introducing more advanced algorithms will also enhance the drone's 
 autonomous capabilities.
+
+##Authors
+
+1. Guladab Bawa /21BCS9345@cuchd.in
+2. Gunmeet Singh /21BCS9331@cuchd.in
+3. Harsh Chauhan /21BCS9288@cuchd.in
+4. Abhisek Bag /21BCS9333@cuchd.in
+5. Vinay Prakash /21BCS9329@cuchd.in
+6. Aditi /21BCS9337@cuchd.in
+
+## License
+
+SELF DRIVING ROBOT licensed under the Apache 2.0 License. See the [`LICENSE`](LICENSE) file for more information.
+
+   
 
 
