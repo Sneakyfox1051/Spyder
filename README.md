@@ -1,4 +1,4 @@
-### Spyder
+### SPYDER
 
 ## SELF DRIVING ROBOT__PROJECT 
 
@@ -55,7 +55,7 @@ main battery as the primary source and the solar panels as the backup source.
 battery-related issues during its flight.
 
 
-## Identification of Tasks
+### Identification of Tasks
 
 1.Define the requirements and objectives: Determine the drone's purpose, including the 
 intended application, performance metrics, and regulatory compliance.
@@ -85,7 +85,7 @@ the drone system's performance and safety.
 9• Deploy the drone: Launch the drone into the desired environment and continuously 
 monitor and improve its performance over time.
 
-## step-by-step instructions for using our prototype:
+### step-by-step instructions for using our prototype:
 
 # Step 1: ' Connect the battery to the drone's power module and mount it on the drone as 
 shown in the figure below ' 
@@ -166,7 +166,7 @@ Furthermore, the utilization of Lidars instead of ultrasonic sensors can enhance
 safety and reliability. Introducing more advanced algorithms will also enhance the drone's 
 autonomous capabilities.
 
-##Authors
+## Authors
 
 1. Guladab Bawa /21BCS9345@cuchd.in
 2. Gunmeet Singh /21BCS9331@cuchd.in
