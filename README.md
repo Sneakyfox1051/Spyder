@@ -1,4 +1,3 @@
-![image](https://github.com/Sneakyfox1051/Spyder/assets/104949087/94aaa3f6-3d80-4b6b-9a67-7839979cb817)
 
 ## AUTONOMOUS DELIVERY DRONE 
 
