@@ -57,14 +57,14 @@ battery-related issues during its flight.
 
 ### Identification of Tasks
 
-1.Define the requirements and objectives: Determine the drone's purpose, including the 
+1. Define the requirements and objectives: Determine the drone's purpose, including the 
 intended application, performance metrics, and regulatory compliance.
 
 2. Select the components: Select the necessary components that are specific to the 
 intended application. These components may include the airframe, sensors, motors, 
 cameras, and communication systems.
 
-3.Develop the hardware: Design and build the drone hardware, including the propulsion 
+3. Develop the hardware: Design and build the drone hardware, including the propulsion 
 system, airframe, and electrical components.
 
 4. Develop the hardware: Design and build the drone hardware, including the propulsion 
@@ -85,18 +85,15 @@ the drone system's performance and safety.
 9• Deploy the drone: Launch the drone into the desired environment and continuously 
 monitor and improve its performance over time.
 
-### step-by-step instructions for using our prototype:
+# Step-by-step instructions for using our prototype:
 
-# Step 1: ' Connect the battery to the drone's power module and mount it on the drone as 
-shown in the figure below ' 
+### Step 1: ' Connect the battery to the drone's power module and mount it on the drone ' 
 
-# Step 2: ' Place the drone on a level surface ready for take-off. '
+### Step 2: ' Place the drone on a level surface ready for take-off. '
 
-# Step 3: ' Establish a wireless connection between the laptop or ground station and the 
-drone via the Wi-Fi network named Ardupilot. '
+### Step 3: ' Establish a wireless connection between the laptop or ground station and the drone via the Wi-Fi network named Ardupilot. '
 
-# Step 4: ' Once connection is established, open the mission planner on your laptop and 
-click the connect button located in the upper right corner of the mission planner screen.'
+### Step 4: ' Once the connection is established, open the mission planner on your laptop and click the connect button located in the upper right corner of the mission planner screen.'
 
 # Step 5: ' To access the mission planner tab, click the Plan button '
 
