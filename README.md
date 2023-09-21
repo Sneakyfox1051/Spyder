@@ -119,7 +119,7 @@ adjusting certain parameters, the drone was able to successfully perform complex
 tasks with increased efficiency. Furthermore, the drone provides us with real-time 
 footage of everything it captured.
 
-3.Field Testing: We conducted rigorous testing of our drone in different climates to 
+3. Field Testing: We conducted rigorous testing of our drone in different climates to 
 ensure its efficiency in diverse conditions. The drone proved to be capable of 
 adapting to various terrains, weather conditions, and altitudes, maneuvering 
 without difficulty.
