@@ -1,4 +1,4 @@
-### SPYDER
+![image](https://github.com/Sneakyfox1051/Spyder/assets/104949087/94aaa3f6-3d80-4b6b-9a67-7839979cb817)
 
 ## AUTONOMOUS DELIVERY DRONE 
 
@@ -19,71 +19,64 @@
 4. `Flight Controller`
 5. `Predefined Missions`
 6. `Flight path`
+7. `Camera`
+8. `Delivery Setup`
+9. `ESC Configuration`
 
-## Innovative technology used 
+# Innovative technology used 
 
- # 1. Design:
+ ### 1. Design:
 • Our prototype consists of a 6-motored Hexacopter configuration with a
 gripping mechanism attached to the bottom for holding the packages
 securely.
 
-# 2. Smart processing unit:
+### 2. Smart processing unit:
 • An intelligent processing unit has been developed to establish secure
 communication between various components of the drone
 • Ensures smooth flight and secure delivery.
 
-# 3. Machine learning algorithms:
+### 3. Machine learning algorithms:
 • Allows the drone to learn from its surroundings and adapt in real time.
 • a feature that sets our project apart as it moves beyond traditional
 technologies that make use of preprogrammed instructions.
 
-# 4. GPS mapping and Compass Technology:
+### 4. GPS mapping and Compass Technology:
 • To accurately track and display the drone's location which is crucial for long-distance deliveries where human monitoring is
 not feasible.
-# 5. Sensors:
+### 5. Sensors:
 • We have incorporated a range of sensors, such as weather monitoring sensors that keep the drone updated with real-time
 weather conditions.
 • Obstacle avoidance technology by using LiDAR. The advantage of LiDAR lies in its ability to provide accurate positioning over
 large areas at high speeds, making it an ideal choice for our prototype.
-# 6. Camera:
+### 6. Camera:
 • our drone makes use of a camera integrated at the bottom part of the drone that provides real-time footage of the drone's
 activities.
-# 7. Dual battery system:
+### 7. Dual battery system:
 • To provide sufficient flight time, our drone features a dual power system that allows the drone to rely on two sources: the
 main battery as the primary source and the solar panels as the backup source.
 • The secondary battery provides power to the drone in case the drone exhausts the primary battery or encounters any
 battery-related issues during its flight.
 
 
-### Identification of Tasks
+# Identification of Tasks
 
-1. Define the requirements and objectives: Determine the drone's purpose, including the 
-intended application, performance metrics, and regulatory compliance.
+### 1. Define the requirements and objectives: Determine the drone's purpose, including the intended application, performance metrics, and regulatory compliance.
 
-2. Select the components: Select the necessary components that are specific to the 
-intended application. These components may include the airframe, sensors, motors, 
-cameras, and communication systems.
+### 2. Select the components: Select the necessary components that are specific to the intended application. These components may include the airframe, sensors, motors, cameras, and communication systems.
 
-3. Develop the hardware: Design and build the drone hardware, including the propulsion 
-system, airframe, and electrical components.
+### 3. Develop the hardware: Design and build the drone hardware, including the propulsion system, airframe, and electrical components.
 
-4. Develop the hardware: Design and build the drone hardware, including the propulsion 
-system, airframe, and electrical components.
+### 4. Develop the hardware: Design and build the drone hardware, including the propulsion system, airframe, and electrical components.
 
-5• Develop the software: Develop the software required for the drone system, including 
-the control software, navigation algorithms, and AI-based algorithms.
+### 5• Develop the software: Develop the software required for the drone system, including the control software, navigation algorithms, and AI-based algorithms.
 
-6• Integrate the components: Combine the hardware and software components to create a 
-functional drone system.
+### 6• Integrate the components: Combine the hardware and software components to create a functional drone system.
 
-7• Test the drone: Verify that the drone system works properly and is safe to use. This 
-may include tests in simulations, controlled environments, or real-world scenarios.
+### 7• Test the drone: Verify that the drone system works properly and is safe to use. This may include tests in simulations, controlled environments, or real-world scenarios.
 
-8• Refine the design: Evaluate the test results and make the necessary changes to improve 
-the drone system's performance and safety.
+### 8• Refine the design: Evaluate the test results and make the necessary changes to improve the drone system's performance and safety.
 
-9• Deploy the drone: Launch the drone into the desired environment and continuously 
-monitor and improve its performance over time.
+### 9• Deploy the drone: Launch the drone into the desired environment and continuously monitor and improve its performance over time.
 
 # Step-by-step instructions for using our prototype:
 
@@ -95,26 +88,22 @@ monitor and improve its performance over time.
 
 ### Step 4: ' Once the connection is established, open the mission planner on your laptop and click the connect button located in the upper right corner of the mission planner screen.'
 
-# Step 5: ' To access the mission planner tab, click the Plan button '
+### Step 5: ' To access the mission planner tab, click the Plan button '
 
-# Step 6: ' Begin by assigning the takeoff instruction to the drone in the mission planner 
-tab. Then, enter the desired waypoint for the drone to reach its destination. After 
-completing the mission, use the RTL (Return to Launch) command to return the drone 
-to its original takeoff point.'
+### Step 6: ' Initiate by setting delivery coordinates, loading the package, and positioning the drone at the takeoff station. '
 
-# Step 7: ' After setting the waypoints, click the write button to send the data to the drone. '
+### Step 7: ' After a fail-safe check, the drone takes off to the destination. '
 
-# Step 8: ' Once the task has been assigned to the drone, go to the mission planner's data 
-tab and click the Arm/Disarm button to give the drone permission to take off '
+### Step 8: ' Use the 'Return to Launch' (RTL) command to return to its starting point for the next delivery. '
 
-# Step 9: ' After the drone is Armed, click on the Do Action button to prompt the drone 
+### Step 9: ' After the drone is Armed, click on the Do Action button to prompt the drone 
 to execute the task assigned by the user. '
 
-# Step 10: ' Once the task is complete, disarm the drone and repeat steps 1-8 whenever 
+### Step 10: ' Once the task is complete, disarm the drone and repeat steps 1-8 whenever 
 you want to assign another mission to it. '
 
 
-## Implementation of Solution:
+# Implementation of Solution:
 
 Based on the block diagram and flowchart, we constructed a prototype of our 
 autonomous drone and conducted testing in real-world environments under various 
@@ -153,7 +142,7 @@ safety and regulatory requirements, including aviation regulations and privacy
 considerations.
 
 
-
+# Dependencies
 
 Following the successful development of the autonomous drone prototype, there are several 
 areas that require further attention and improvement. Priority should be given to addressing 
