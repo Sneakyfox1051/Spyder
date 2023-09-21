@@ -173,7 +173,7 @@ autonomous capabilities.
 3. Harsh Chauhan /21BCS9288@cuchd.in
 4. Abhisek Bag /21BCS9333@cuchd.in
 5. Vinay Prakash /21BCS9329@cuchd.in
-6. Aditi /21BCS9337@cuchd.in
+6. Aditi Mehra /21BCS9337@cuchd.in
 
 ## License
 
