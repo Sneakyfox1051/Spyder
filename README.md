@@ -177,7 +177,7 @@ autonomous capabilities.
 
 ## License
 
-SELF DRIVING ROBOT licensed under the Apache 2.0 License. See the [`LICENSE`](LICENSE) file for more information.
+ AUTONOMOUS DELIVERY DRONE  licensed under the Apache 2.0 License. See the [`LICENSE`](LICENSE) file for more information.
 
    
 
